@@ -1,3 +1,15 @@
-[
-  {"id":147265,"firstName":"Ramesh","lastName":"Whirlpool","email":"brand@yopmail.com","imageUrl":null,"activated":true,"langKey":"en","createdBy":"anonymousUser","createdDate":"2020-01-27T11:27:56Z","lastModifiedBy":"anonymousUser","lastModifiedDate":"2020-01-27T11:27:56Z","authorities":["ROLE_CUSTOMER","ROLE_BRAND"],"profile":{"id":1433,"mobile":null,"pan":"LPKPK4527T","userId":147265,"email":"brand@yopmail.com","name":"Ramesh","serviceProviderName":"Whirlpool","createdDate":null,"createdBy":null,"geoCode":null,"productSubscriptions":[{"id":3,"appId":"EPR005","actor":"BRAND"}],"formattedId":"RCS137535","totalWorkOrders":null,"profileImageUrl":null,"regulatorRegNo":"EPR789","hasProAccount":true,"appActor":null},"onboardingStatus":[],"verficationDone":false,"registrationDone":true,"customId":null,"hasPassword":true}
-]
+
+
+
+{
+  "posts": [
+   {"id":147265,"firstName":"Ramesh","lastName":"Whirlpool","email":"brand@yopmail.com","imageUrl":null,"activated":true,"langKey":"en","createdBy":"anonymousUser","createdDate":"2020-01-27T11:27:56Z","lastModifiedBy":"anonymousUser","lastModifiedDate":"2020-01-27T11:27:56Z","authorities":["ROLE_CUSTOMER","ROLE_BRAND"],"profile":{"id":1433,"mobile":null,"pan":"LPKPK4527T","userId":147265,"email":"brand@yopmail.com","name":"Ramesh","serviceProviderName":"Whirlpool","createdDate":null,"createdBy":null,"geoCode":null,"productSubscriptions":[{"id":3,"appId":"EPR005","actor":"BRAND"}],"formattedId":"RCS137535","totalWorkOrders":null,"profileImageUrl":null,"regulatorRegNo":"EPR789","hasProAccount":true,"appActor":null},"onboardingStatus":[],"verficationDone":false,"registrationDone":true,"customId":null,"hasPassword":true}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
